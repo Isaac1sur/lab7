@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: linear-gradient(to right, red, yellow);
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 30px;
+
+}
+
+
+.cuerpo {
+  background: rgb(231, 187, 231);
+  border-radius: 15px;
+  display: inline-block;
+  padding: 30px;
+  max-width: 300px;
+  text-align: center;
+}
+
+
+.cuerpo img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+
+.cuerpo h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+
+.cuerpo p {
+  font-size: 14px;
+  color: #333;
+  margin: 8px 0;
+}
+
+
+.cuerpo .price {
+  font-weight: bold;
+  color: green;
+  font-size: 25px;
+}
+
+
+.cuerpo button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.cuerpo button:hover {
+  background-color: #34e624;
+}
